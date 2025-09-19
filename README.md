@@ -47,4 +47,6 @@ npm run dev
 ![ConFix Screenshot](https://github.com/Ali-dotcom98/ConFix/blob/main/Desktop%20-%201.png?raw=true)
 
 ---
+## Live Preview
+[Open Live Preview](https://con-fix.vercel.app/)
 
