@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Features  
+## 🚀 Features  
 
 - 🏢 **Hero Section** – *Building Excellence, Creating Tomorrow* – Highlights innovation, sustainability, and precision.  
 - 🏗️ **About Section** – *Building Your Vision, Crafting Your Future* – Showcases expert craftsmanship and innovative solutions.  
@@ -25,14 +25,14 @@
 
 ---
 
-## 🚀 Installation  
+## 📦 Installation  
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/confix.git
+git clone https://github.com/Ali-dotcom98/ConFix.git
 
 # Navigate into the project folder
-cd confix
+cd ConFix
 
 # Install dependencies
 npm install
