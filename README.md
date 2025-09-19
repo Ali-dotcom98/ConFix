@@ -40,3 +40,11 @@ npm install
 # Start the development server
 npm run dev
 ```
+---
+
+## 🖼️ Screenshot
+
+![ConFix Screenshot](https://github.com/Ali-dotcom98/ConFix/blob/main/Desktop%20-%201.png?raw=true)
+
+---
+
