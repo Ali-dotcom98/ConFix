@@ -21,7 +21,7 @@
 
 - **Framework:** React (or specify the framework used)  
 - **Styling:** Tailwind CSS   
-- **Animations:** (Add GSAP or Framer Motion if applicable)  
+- **Animations:** GSAP 
 
 ---
 
